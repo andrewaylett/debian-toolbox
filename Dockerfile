@@ -1,4 +1,4 @@
-FROM debian:buster-20220912
+FROM debian:buster-20230202
 
 ENV NAME=debian-toolbox VERSION=10
 LABEL com.github.containers.toolbox="true" \
